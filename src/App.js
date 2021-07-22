@@ -1,9 +1,9 @@
 import './App.css';
-import UseReducers from './component/Hooks/UseReducers'
+import Todo from './component/toDo/Todo'
 function App() {
   return (
     <div className="App">
-          <UseReducers/>
+          <Todo/>
     </div>
   );
 }
